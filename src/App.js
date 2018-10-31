@@ -1,15 +1,35 @@
 import React, { Component } from 'react';
-import Home from "./components/home/Home";
+import { Container } from 'reactstrap';
 import './App.css';
+import NavBar from "./components/navbar/NavBar";
+import More from './components/more/More';
+import { Route, Switch, BrowserRouter } from 'react-router-dom';
+import FirstPage from "./components/home/FirstPage";
+import Suggarlist from "./components/suggarlist/Suggarlist";
+import Mappage from "./components/mappage/Mappage";
 
-class App extends Component {
+
+export default class App extends Component {
   render() {
     return (
-      <div className="App">
-        <Home />
-      </div>
+
+      <BrowserRouter>
+        <Container fluid>
+          <NavBar />
+          <Switch>
+            <Route exact path="/" component={FirstPage} />
+            <Route exact path="/More" component={More} />
+            <Route exact path="/Categorie" component={Suggarlist} />
+ 
+          </Switch>
+        </Container>
+      </BrowserRouter>
+
     );
   }
 }
 
-export default App;
+//<Route exact path="/Categorie" component={Suggarlist} />
+//<Route exact path="/" component={Home} />
+
+//           <Route exact path="/Maps" component={Mappage} />
