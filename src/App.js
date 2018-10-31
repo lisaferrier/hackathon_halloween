@@ -20,7 +20,7 @@ export default class App extends Component {
             <Route exact path="/" component={FirstPage} />
             <Route exact path="/More" component={More} />
             <Route exact path="/Categorie" component={Suggarlist} />
- 
+            <Route exact path="/Maps" component={Mappage} />
           </Switch>
         </Container>
       </BrowserRouter>
@@ -32,4 +32,4 @@ export default class App extends Component {
 //<Route exact path="/Categorie" component={Suggarlist} />
 //<Route exact path="/" component={Home} />
 
-//           <Route exact path="/Maps" component={Mappage} />
+//           

@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom';
 export default class ButtonRepas extends Component {
   render() {
     return (
-      <NavLink to="/Suggarlist">
+      <NavLink to="/Categorie">
         <div className="centerButton">
           <Button size="lg">Ajouter au<br />repas</Button>
         </div>

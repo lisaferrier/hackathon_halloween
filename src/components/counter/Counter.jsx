@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import "./Counter.css";
 import StyledProgressbar from 'react-circular-progressbar';
 
-import { Progress } from 'reactstrap';
-
 export default class Counter extends Component {
     render() {
         const percentage = 40;
