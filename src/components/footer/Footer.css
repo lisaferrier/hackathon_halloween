@@ -1,0 +1,18 @@
+footer {
+    font-style: 'Montserrat';
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    font-weight: bold;
+    color: #666472;
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Glegoo', serif;
+    @import url('https://fonts.googleapis.com/css?family=Glegoo|Montserrat');
+}
