@@ -13,7 +13,9 @@
   margin:1vh;
   
 }
-
+.vignettes {
+  text-align: center;
+}
 .sc-picture {
   width: 20vh;
   -moz-border-radius:50% 50% 50% 50%;

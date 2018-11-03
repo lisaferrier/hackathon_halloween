@@ -26,7 +26,6 @@ export default class Suggarlist extends React.Component {
             Top des meilleurs aliments
           </NavbarBrand>
         </Navbar>
-
         <Sugargrid />
         <ButtonReturn />
       </div>

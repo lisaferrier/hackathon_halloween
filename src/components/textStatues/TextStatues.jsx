@@ -7,7 +7,8 @@ export default class TextStatues extends Component {
         return (
             <div className="textImage">
                 <div className="textStatus">
-                    <span className="statutZombie">Statut *insérer*</span><span className="caloConso">*insérer*Kcal<br />conso</span>
+                    <span className="statutZombie">Statut <br />ZOMBIE</span>
+                    <span className="caloConso">5000 Kcal<br />conso</span>
                 </div>
                 <img className="statuts" src={zombie} alt="zombie" />
             </div>

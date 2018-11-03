@@ -13,7 +13,7 @@ export default class FirstPage extends Component {
         <CounterBackground />
         <Counter />
         <TextStatues />
-        <ButtonRepas />
+        
         <Footer />
       </div>
     )
