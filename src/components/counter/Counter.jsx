@@ -1,12 +1,11 @@
 import React, { Component } from 'react';
 import "./Counter.css";
 import StyledProgressbar from 'react-circular-progressbar';
-
-import { Progress } from 'reactstrap';
+import ButtonRepas from '../button/ButtonRepas'
 
 export default class Counter extends Component {
     render() {
-        const percentage = 40;
+        const percentage = 80;
         return (
             <div className="englobeCounter">
                 <p className="date">Mercredi 31 octobre</p>
@@ -19,7 +18,9 @@ export default class Counter extends Component {
                             text: { fill: '#ffffff', fontSize: '10px' },
                         }}
                     />
+                    
                 </div >
+                <ButtonRepas />
             </div>
         )
     }

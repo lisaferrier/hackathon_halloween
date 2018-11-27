@@ -1,15 +1,10 @@
 .cat.navbar.navbar-light.bg-faded {
     background: #FF9D5E;
 }
-p {
-    margin: 10px;
-    padding: 10px;
-}
 
-.titlem {
+.titleCat {
     color: white !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
+    margin-left: 64px !important;
     font-family: 'Kollektif';
     font-size: 1.2em !important;
     padding: 0!important;

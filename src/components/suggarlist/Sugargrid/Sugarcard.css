@@ -1,0 +1,54 @@
+/* @font-face {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Glegoo', serif;
+  @import url('https://fonts.googleapis.com/css?family=Glegoo|Montserrat');
+} */
+
+
+
+.sc-unit-vignette {
+  /* background-color: purple; */
+  /* color: beige;  */
+  padding : 2vh;
+  margin:1vh;
+  
+}
+.vignettes {
+  text-align: center;
+}
+.sc-picture {
+  width: 20vh;
+  -moz-border-radius:50% 50% 50% 50%;
+  -webkit-border-radius:50% 50% 50% 50%;
+  border-radius:50% 50% 50% 50%;
+  -moz-box-shadow: 6px 6px 12px #888; 
+  -webkit-box-shadow: 6px 6px 12px #888; 
+  box-shadow:6px 6px 12px #888;
+ 
+}
+
+p .sc-name {
+  font-style: 'Montserrat'; 
+
+}
+.sc-button {
+  /* background: white;
+  -moz-border-radius:25% 25% 25% 25%;
+  -webkit-border-radius:25% 25% 25% 25%;
+  border-radius:25% 25% 25% 25%; */
+  -webkit-appearance: button;
+  ;
+
+}
+
+.counterBackground {
+  border-radius: 0px 0px 200px 200px;
+  -moz-border-radius: 0px 0px 200px 200px;
+  -webkit-border-radius: 0px 0px 200px 200px;
+  border: 2px solid #ff9c5e;
+  background-color: #ff9c5e;
+  height: 52vh;
+  -moz-box-shadow: 6px 6px 12px #888; 
+  -webkit-box-shadow: 6px 6px 12px
+   #888; box-shadow:6px 6px 12px #888;
+}

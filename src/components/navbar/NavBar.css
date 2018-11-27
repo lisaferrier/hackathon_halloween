@@ -2,12 +2,11 @@ nav {
     background: #666472;
 }
 
-.linkIll {
+.linkIll, .active {
     color: white !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
+    margin-left: 64px !important;
     font-family: 'Kollektif';
-    font-size: 2em !important;
+    font-size: 1.5em !important;
     padding: 0!important;
     text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
