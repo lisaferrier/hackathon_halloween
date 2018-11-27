@@ -6,7 +6,7 @@
 
 # Presentation of the project
 "Projet Hackathon - Halloween, Mathias, Rebecca, Alexandra et Lisa"
-*Parodie des applications "Healthy"/Fitness, où plus on a des calories, plus le compteur augmente et les valeurs changent (en bonne santé, bof bof, zombie* 
+*Parodie des applications "Healthy"/Fitness, où plus on a des calories, plus le compteur augmente et les valeurs changent (en bonne santé, bof bof, zombie)* 
 
 
 # Require
