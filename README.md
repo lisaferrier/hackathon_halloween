@@ -26,7 +26,7 @@ Divers :
 - Autonomie
 
 # Notes
-1. **API used ** :
+1. **API used** :
 - [openfoodfacts](https://fr.openfoodfacts.org/data)
 2. **Font used** 
 - [Kollektif](https://befonts.com/download/kollektif)
