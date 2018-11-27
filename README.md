@@ -1,4 +1,4 @@
-# Project Title : "ill'thy"
+# Project Title : "ill'thy" [pas encore fini]
 
 ![photo](https://nsa39.casimages.com/img/2018/11/27/181127110820736606.jpg)
 
@@ -6,9 +6,7 @@
 
 # Presentation of the project
 "Projet Hackathon - Halloween, Mathias, Rebecca, Alexandra et Lisa"
-*C’est Halloween, tu as revêtu ton plus beau costume et tu pars sonner aux maisons autour de chez toi pour récupérer un maximum de bonbons ! 
-Mais tu es un gourmand collectionneur, et cette année, tu les veux tous ! Heureusement, tu viens de commencer ta formation à la Wild et tu vas pouvoir coder une petite application pour t’aider ! 
-* 
+*Parodie des applications "Healthy"/Fitness, où plus on a des calories, plus le compteur augmente et les valeurs changent (en bonne santé, bof bof, zombie* 
 
 
 # Require
